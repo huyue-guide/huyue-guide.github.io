@@ -13,10 +13,10 @@
 - 连接成功但不能上网: https://huyue-guide.github.io/huyue/connected-no-internet/
 
 ## 应用与网络问题
-- Telegram 问题导航: https://huyue-guide.github.io/telegram/
-- Netflix 问题导航: https://huyue-guide.github.io/netflix/
-- YouTube 问题导航: https://huyue-guide.github.io/youtube/
-- ChatGPT 问题导航: https://huyue-guide.github.io/chatgpt/
+- Telegram: https://huyue-guide.github.io/telegram/
+- Netflix: https://huyue-guide.github.io/netflix/
+- YouTube: https://huyue-guide.github.io/youtube/
+- ChatGPT: https://huyue-guide.github.io/chatgpt/
 - 通用网络排查: https://huyue-guide.github.io/network/troubleshooting/
 - DNS 异常排查: https://huyue-guide.github.io/network/dns-problems/
 - ChatGPT 网络故障: https://huyue-guide.github.io/chatgpt/not-working/
@@ -34,13 +34,13 @@
 - Telegram 登录验证码: https://huyue-guide.github.io/telegram/login-code/
 - Telegram 代理设置: https://huyue-guide.github.io/telegram/proxy-settings/
 - Telegram Desktop 连接问题: https://huyue-guide.github.io/telegram/desktop-connecting/
-- TikTok 问题导航: https://huyue-guide.github.io/tiktok/
+- TikTok: https://huyue-guide.github.io/tiktok/
 - TikTok 打不开与视频加载失败: https://huyue-guide.github.io/tiktok/not-working/
 - TikTok 地区内容与位置判断: https://huyue-guide.github.io/tiktok/region-content/
-- X / Twitter 问题导航: https://huyue-guide.github.io/x/
+- X / Twitter: https://huyue-guide.github.io/x/
 - X / Twitter 连接问题: https://huyue-guide.github.io/x/not-working/
 - X / Twitter 登录问题: https://huyue-guide.github.io/x/login-problems/
-- Disney+ 问题导航: https://huyue-guide.github.io/disney-plus/
+- Disney+: https://huyue-guide.github.io/disney-plus/
 - Disney+ 地区与播放问题: https://huyue-guide.github.io/disney-plus/playback-region/
 - Disney+ Error 43 / 93: https://huyue-guide.github.io/disney-plus/error-43-93/
 
