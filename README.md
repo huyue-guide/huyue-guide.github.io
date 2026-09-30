@@ -1,33 +1,24 @@
-# 虎跃使用指南 - 静态站点
+# 虎跃使用指南
 
-可直接部署的纯静态 HTML/CSS/JS 网站。
+虎跃加速器使用、设备设置和常见网络问题的中文指南。
 
-## 主要目录
+网站：
 
-- `/huyue/`：虎跃安装、使用和设备故障指南
-- `/chatgpt/`：ChatGPT 网络、登录与验证问题
-- `/youtube/`：YouTube 播放、电视端与内容不可用问题
-- `/netflix/`：Netflix 地区、VPN / Proxy 与影片不可用问题
-- `/telegram/`：Telegram 连接、验证码与代理问题
-- `/disney-plus/`：Disney+ 地区、播放与 Error 43 / 93 问题
-- `/tiktok/`、`/x/`：对应平台的网络与地区问题
-- `/network/`：通用网络和 DNS 排查
+https://huyue-guide.github.io/
 
-## 上传前修改站点地址
+主要内容包括：
 
-全站已配置为 GitHub Pages 组织站根地址：
+- 虎跃加速器安装与使用
+- Windows、Android、iPhone / iPad、Mac 常见问题
+- 网络连接、DNS、连接后无法上网等故障
+- ChatGPT、YouTube、Netflix、Telegram、TikTok、X、Disney+ 使用问题
 
-- 用户/组织 Pages：`https://yourname.github.io`
-- 独立域名：`https://example.com`
+虎跃官网：
 
-根地址末尾不要额外添加 `/`。替换范围包括 canonical、Open Graph、JSON-LD、`sitemap.xml`、`robots.txt` 和 `llms.txt`。
+https://huyuejsq.co/
 
-## GitHub Pages
+## 说明
 
-当前内部链接使用根路径形式，例如 `/huyue/how-to-use/`，适合用户/组织 Pages 或独立域名。若部署到 `username.github.io/repository/` 这种项目子路径，需要统一加入仓库前缀。
+本站为独立使用指南，不是上述第三方平台的官方网站。
 
-上传时保留 `.nojekyll`。当前文件默认按 `username.github.io` 根站点设计；如果使用项目子路径，请先统一调整根路径。部署后检查首页、404、移动端导航、图片和主要文章是否能正常打开。
-
-## 图片
-
-`assets/images/huyue-app-home.webp` 为社交分享和高密度屏幕使用的虎跃客户端真实截图；`huyue-app-home-384.webp` 为较小屏幕准备的响应式版本。成品包不再附带未压缩 PNG，减少仓库和部署体积。
+平台功能和规则可能变化，涉及具体平台规则时，以对应平台当前官方说明为准。
