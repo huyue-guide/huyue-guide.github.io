@@ -1,0 +1,56 @@
+# 虎跃使用指南
+
+虎跃加速器安装、连接、设备设置和网络故障排查，以及 ChatGPT、YouTube、Netflix、Telegram、TikTok、X、Disney+ 等常见应用的网络问题解决资料。
+
+## 虎跃使用
+- 虎跃指南: https://huyue-guide.github.io/huyue/
+- 下载安装: https://huyue-guide.github.io/huyue/download-install/
+- 使用方法: https://huyue-guide.github.io/huyue/how-to-use/
+- Windows: https://huyue-guide.github.io/huyue/windows/
+- Android: https://huyue-guide.github.io/huyue/android/
+- iPhone / iPad: https://huyue-guide.github.io/huyue/ios/
+- Mac: https://huyue-guide.github.io/huyue/mac/
+- 连接成功但不能上网: https://huyue-guide.github.io/huyue/connected-no-internet/
+
+## 应用与网络问题
+- Telegram 问题导航: https://huyue-guide.github.io/telegram/
+- Netflix 问题导航: https://huyue-guide.github.io/netflix/
+- YouTube 问题导航: https://huyue-guide.github.io/youtube/
+- ChatGPT 问题导航: https://huyue-guide.github.io/chatgpt/
+- 通用网络排查: https://huyue-guide.github.io/network/troubleshooting/
+- DNS 异常排查: https://huyue-guide.github.io/network/dns-problems/
+- ChatGPT 网络故障: https://huyue-guide.github.io/chatgpt/not-working/
+- ChatGPT 登录与验证码: https://huyue-guide.github.io/chatgpt/login-problems/
+- ChatGPT Cloudflare 验证循环: https://huyue-guide.github.io/chatgpt/cloudflare-loop/
+- ChatGPT CAPTCHA 频繁出现: https://huyue-guide.github.io/chatgpt/captcha-frequent/
+- ChatGPT App 与网页版表现不同: https://huyue-guide.github.io/chatgpt/app-vs-web/
+- YouTube 播放故障: https://huyue-guide.github.io/youtube/playback-problems/
+- YouTube 电视与 4K: https://huyue-guide.github.io/youtube/tv-4k/
+- YouTube 部分视频不可用: https://huyue-guide.github.io/youtube/video-unavailable/
+- Netflix 地区与播放问题: https://huyue-guide.github.io/netflix/playback-region/
+- Netflix VPN / Proxy 错误: https://huyue-guide.github.io/netflix/vpn-proxy-error/
+- Netflix 标题不可用: https://huyue-guide.github.io/netflix/title-unavailable/
+- Telegram 连接问题: https://huyue-guide.github.io/telegram/connecting/
+- Telegram 登录验证码: https://huyue-guide.github.io/telegram/login-code/
+- Telegram 代理设置: https://huyue-guide.github.io/telegram/proxy-settings/
+- Telegram Desktop 连接问题: https://huyue-guide.github.io/telegram/desktop-connecting/
+- TikTok 问题导航: https://huyue-guide.github.io/tiktok/
+- TikTok 打不开与视频加载失败: https://huyue-guide.github.io/tiktok/not-working/
+- TikTok 地区内容与位置判断: https://huyue-guide.github.io/tiktok/region-content/
+- X / Twitter 问题导航: https://huyue-guide.github.io/x/
+- X / Twitter 连接问题: https://huyue-guide.github.io/x/not-working/
+- X / Twitter 登录问题: https://huyue-guide.github.io/x/login-problems/
+- Disney+ 问题导航: https://huyue-guide.github.io/disney-plus/
+- Disney+ 地区与播放问题: https://huyue-guide.github.io/disney-plus/playback-region/
+- Disney+ Error 43 / 93: https://huyue-guide.github.io/disney-plus/error-43-93/
+
+## 官方资料
+- 虎跃帮助与教程: https://huyuejsq.co/course.html
+- 虎跃下载页: https://huyuejsq.co/download.html
+- OpenAI Help Center: https://help.openai.com/
+- YouTube Help: https://support.google.com/youtube/
+- Netflix Help Center: https://help.netflix.com/
+- Telegram FAQ: https://telegram.org/faq
+- Telegram Proxy docs: https://core.telegram.org/proxy
+
+- X Help Center: https://help.x.com/

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html lang="zh-CN"><head><meta charset="utf-8"/><meta content="width=device-width,initial-scale=1" name="viewport"/><title>虎跃安卓版怎么用？安装、首次连接与系统权限</title><meta content="虎跃加速器 Android 使用指南，介绍安装、首次 VPN 授权、连接状态和常见系统权限；锁屏后断开与连接后没网分别进入专项排查。" name="description"/><link href="https://huyue-guide.github.io/huyue/android/" rel="canonical"/><meta content="虎跃安卓版怎么用？安装、首次连接与系统权限" property="og:title"/><meta content="虎跃加速器 Android 使用指南，介绍安装、首次 VPN 授权、连接状态和常见系统权限；锁屏后断开与连接后没网分别进入专项排查。" property="og:description"/><meta content="article" property="og:type"/><meta content="https://huyue-guide.github.io/huyue/android/" property="og:url"/><meta content="#211a4e" name="theme-color"/><meta content="虎跃使用指南" name="application-name"/><link href="/site.webmanifest" rel="manifest"/><script data-js-marker="1">document.documentElement.classList.add('js')</script><link href="/assets/css/style.css" rel="stylesheet"/><script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"虎跃安卓版怎么用？安装、首次连接与系统权限","dateModified":"2026-09-30","inLanguage":"zh-CN","mainEntityOfPage":"https://huyue-guide.github.io/huyue/android/","datePublished":"2026-09-29","author":{"@type":"Organization","name":"虎跃使用指南","url":"https://huyue-guide.github.io/"},"publisher":{"@type":"Organization","name":"虎跃使用指南","url":"https://huyue-guide.github.io/"},"isPartOf":{"@type":"WebSite","name":"虎跃使用指南","url":"https://huyue-guide.github.io/"}}</script><meta content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" name="robots"/><meta content="虎跃使用指南" property="og:site_name"/><meta content="zh_CN" property="og:locale"/><link href="/assets/images/favicon.svg" rel="icon" type="image/svg+xml"/><meta content="light" name="color-scheme"/><meta content="summary_large_image" name="twitter:card"/><meta content="虎跃安卓版怎么用？安装、首次连接与系统权限" name="twitter:title"/><meta content="虎跃加速器 Android 使用指南，介绍安装、首次 VPN 授权、连接状态和常见系统权限；锁屏后断开与连接后没网分别进入专项排查。" name="twitter:description"/><script data-schema="breadcrumb" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://huyue-guide.github.io/"},{"@type":"ListItem","position":2,"name":"虎跃加速器","item":"https://huyue-guide.github.io/huyue/"},{"@type":"ListItem","position":3,"name":"Android","item":"https://huyue-guide.github.io/huyue/android/"}]}</script><meta content="虎跃使用指南" name="author"/><meta content="strict-origin-when-cross-origin" name="referrer"/><meta content="telephone=no" name="format-detection"/><meta content="2026-09-29" property="article:published_time"/><meta content="2026-09-30" property="article:modified_time"/></head><body><a class="skip-link" href="#main-content">跳到正文</a><header><nav aria-label="主导航" class="nav"><a class="brand" href="/"><span class="brandmark">虎</span><span>虎跃使用指南</span></a><button aria-controls="site-nav" aria-expanded="false" aria-label="展开导航" class="menu" type="button">☰</button><div class="links" id="site-nav"><a href="/huyue/">虎跃指南</a><a href="/huyue/download-install/">下载安装</a><a href="/network/troubleshooting/">网络排障</a><a href="/#apps">应用问题</a></div></nav></header><main class="article" id="main-content">
+<div class="breadcrumbs"><a href="/">首页</a> / <a href="/huyue/">虎跃加速器</a> / Android</div>
+<h1>虎跃安卓版怎么用？安装、首次连接与系统权限</h1>
+<p class="lead">安卓上“刚连上可以用，锁屏一会儿就断了”很常见。遇到这种情况，先看 VPN 标识和系统后台限制，不要第一反应就连续换节点。</p>
+<div class="meta">更新于 <time datetime="2026-09-30">2026 年 9 月</time> · 内容按当前公开资料与实际使用场景整理</div>
+<div class="answer-box"><strong>最关键的判断：</strong>断开时系统 VPN 标识有没有一起消失？如果也消失，优先查系统杀后台；如果 VPN 仍在而只有一个 App 不通，就查目标 App 或线路。</div>
+<div class="tip">虎跃官方旧版安卓帮助也把“后台被系统结束”列为常见原因。不同手机的新系统菜单已经变化，所以本站只保留判断方法，不照抄旧版菜单路径。</div><p>如果虎跃失效时，系统状态栏里的 VPN 标识也同时消失，更像是系统把后台 VPN 会话结束了；如果 VPN 标识还在，但只有某个 App 不通，则更应该检查目标 App、线路或网络环境。</p><h2>安装后第一次连接</h2>
+<p>虎跃当前公开下载页列出 Android 6.0 以上支持，并提供应用商店/安装包入口。安装后先使用默认智能线路，点击连接；系统第一次建立 VPN 时通常会弹出 VPN 连接授权，确认后再回到客户端。</p>
+<p>如果系统阻止安装，不要直接关闭整台手机的安全防护。先确认安装包来自官方入口，再按当前系统的安装来源提示处理。</p>
+<h2>锁屏几分钟后断开，先检查后台限制</h2>
+<p>虎跃官方帮助页把 Android “用几分钟就断开”的常见原因指向系统后台进程管理。不同厂商的菜单名称会变，但核心检查项基本一致：</p>
+<ul class="check">
+<li>允许虎跃后台活动或后台运行。</li>
+<li>不要把虎跃设为严格省电、深度休眠或自动冻结。</li>
+<li>如果系统提供“应用启动/自启动”管理，允许必要的后台启动。</li>
+<li>最近任务或系统提供“锁定应用”时，可避免清理工具误杀进程。</li>
+<li>连接期间尽量不要使用一键清理把 VPN 应用从后台清掉。</li>
+</ul>
+<div class="warning">官方旧教程里能看到 MIUI、ColorOS、Flyme 等具体旧版本路径，但这些菜单变化很快。现在更稳妥的做法是在系统设置直接搜索“电池”“后台活动”“应用启动”“无限制”。</div>
+<h2>VPN 图标消失和没消失，意义不同</h2>
+<div class="symptom-grid">
+<div class="symptom"><strong>VPN 标识也消失</strong><p>更像是 VPN 会话被系统结束。重点看后台、电池和进程管理。</p></div>
+<div class="symptom"><strong>VPN 标识还在</strong><p>如果其他 App 正常，优先排查当前 App、节点或目标服务，不要先重装虎跃。</p></div>
+</div>
+<h2>只有移动数据不行，Wi‑Fi 正常</h2>
+<p>先检查 Android 是否限制了虎跃的移动数据、后台数据或数据节省模式；反过来，如果移动数据正常而某个 Wi‑Fi 不行，更像是当前 Wi‑Fi、路由器、DNS 或网络过滤问题。</p>
+<h2>连接着，但所有网页还是打不开</h2>
+<p>先断开虎跃测试原始网络。如果原始网络正常，再重新连接另一条线路；仍然失败时再检查 DNS、其他 VPN/代理工具和 Android 私人 DNS 等设置。不要同时改完所有项目，否则很难判断是哪一步恢复了连接。</p>
+<div class="source-box"><strong>虎跃官方资料</strong><a class="external" href="https://huyuejsq.co/download.html" rel="noopener noreferrer">Android 下载入口</a><a class="external" href="https://huyuejsq.co/Android-zong.html" rel="noopener noreferrer">官方 Android 后台说明</a><a class="external" href="https://huyuejsq.co/course.html" rel="noopener noreferrer">虎跃帮助页面</a></div>
+<div class="related"><strong>下一步</strong><a href="/huyue/android-background-disconnect/">→ Android 锁屏后断开专项</a><a href="/huyue/connected-no-internet/">→ 连接成功但不能上网</a><a href="/huyue/how-to-use/">→ 第一次连接和选线路</a><a href="/network/troubleshooting/">→ 检查系统网络设置</a></div>
+</main><footer class="footer"><div class="wrap"><div><strong>虎跃使用指南</strong><div class="small">独立使用指南与网络问题整理站点，不代表第三方平台官方立场。</div></div><div aria-label="页脚导航" role="navigation"><a href="/huyue/">虎跃指南</a> · <a href="/about/">关于本站</a> · <a class="external" href="https://huyuejsq.co/course.html" rel="noopener noreferrer">虎跃帮助页面</a></div></div></footer><script defer="" src="/assets/js/main.js"></script></body></html>
