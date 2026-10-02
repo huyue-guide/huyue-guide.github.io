@@ -44,13 +44,20 @@
 - Disney+ 地区与播放问题: https://huyue-guide.github.io/disney-plus/playback-region/
 - Disney+ Error 43 / 93: https://huyue-guide.github.io/disney-plus/error-43-93/
 
-## 官方资料
-- 虎跃帮助与教程: https://huyuejsq.co/course.html
+## 虎跃官方入口
+- 虎跃官网: https://huyuejsq.co/
 - 虎跃下载页: https://huyuejsq.co/download.html
+- 虎跃帮助与教程: https://huyuejsq.co/course.html
+- 虎跃人工客服: https://helpsupport.huyuesupport.com/chatlink_jump.html
+- Google Play: https://play.google.com/store/apps/details?id=com.didi.dada&hl=zh
+- App Store: https://apps.apple.com/hk/app/%E8%99%8E%E8%B7%83%E5%8A%A0%E9%80%9F%E5%99%A8/id6737764160
+
+## 第三方官方资料
 - OpenAI Help Center: https://help.openai.com/
 - YouTube Help: https://support.google.com/youtube/
 - Netflix Help Center: https://help.netflix.com/
 - Telegram FAQ: https://telegram.org/faq
 - Telegram Proxy docs: https://core.telegram.org/proxy
-
+- TikTok Support: https://support.tiktok.com/
 - X Help Center: https://help.x.com/
+- Disney+ Help Center: https://help.disneyplus.com/
